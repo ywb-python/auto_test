@@ -6,7 +6,7 @@ import unittest
 
 class InitTest(unittest.TestCase):
     """
-     1.测试固件每次执行
+     序列化.测试固件每次执行
     setUp()、tearDown()
     先执行setUp()，再执行具体测试用例，最后执行tearDown()
     """
